@@ -22,8 +22,7 @@ Capstone проект для автоматического выявления �
    ```bash
    git clone [https://github.com/anaim2/Log-Anomaly-Detection.git](https://github.com/anaim2/Log-Anomaly-Detection.git)
 
-### Пример: Web-Демонстрация: https://log-anomaly-detection-bolat-imangali.streamlit.app
-
+### Пример: Web-Демонстрация: https://log-anomaly-detection-h534ongxzozwnjygjcfdln.streamlit.app/
 ```markdown
 📂 Структура проекта
 - `app.py` - Основной файл приложения (Streamlit).
