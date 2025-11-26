@@ -14,3 +14,20 @@ Capstone проект для автоматического выявления �
 - **Streamlit** (Web Interface)
 - **Scikit-learn** (Machine Learning)
 - **Pandas** (Data Processing)
+
+## 🛠️ Установка и запуск локально
+Чтобы запустить проект на своем компьютере:
+
+1. **Клонируйте репозиторий:**
+   ```bash
+   git clone [https://github.com/anaim2/Log-Anomaly-Detection.git](https://github.com/anaim2/Log-Anomaly-Detection.git)
+
+### Пример: Web-Демонстрация: https://log-anomaly-detection-bolat-imangali.streamlit.app
+
+```markdown
+📂 Структура проекта
+- `app.py` - Основной файл приложения (Streamlit).
+- `data_gen.py` - Скрипт генерации синтетических логов.
+- `model.pkl` - Обученная модель Isolation Forest.
+- `server_logs.csv` - Пример данных для анализа.
+- `requirements.txt` - Список библиотек.
